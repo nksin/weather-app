@@ -2,7 +2,7 @@
   <div>
     <v-container>
       <!-- <v-layout> -->
-        <h1 class="text-h4 text-center">weather app</h1>
+        <h1 class="text-h4 text-center">Weather App</h1>
         <v-flex xs12>
           <v-card color="#455A64" dark>
             <v-card-text>
